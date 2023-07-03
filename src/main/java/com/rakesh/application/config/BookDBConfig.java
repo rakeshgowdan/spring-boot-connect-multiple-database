@@ -43,7 +43,7 @@ public class BookDBConfig {
 		
 		 Map<String, Object> properties = new HashMap<>();
 		 properties.put("hibernate.hbm2ddl.auto", "update");
-		 properties.put("hibernate.dialect", "org.hibernate.dialect.MySQL5Dialect");
+		 properties.put("hibernate.dialect", "org.hibernate.dialect.PostgreSQLDialect");
 		 
 		return builder.dataSource(dataSource)
 				.properties(properties)
