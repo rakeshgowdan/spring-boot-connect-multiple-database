@@ -1,0 +1,72 @@
+{"properties": [
+  {
+    "name": "spring.user.datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.user.datasource.url'"
+  },
+  {
+    "name": "spring.user.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.user.datasource.username'"
+  },
+  {
+    "name": "spring.book.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.book.datasource.username'"
+  },
+  {
+    "name": "spring.user.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.user.datasource.password'"
+  },
+  {
+    "name": "spring.book.datasource.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.book.datasource.driver-class-name'"
+  },
+  {
+    "name": "spring.user.datasource.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.user.datasource.driver-class-name'"
+  },
+  {
+    "name": "spring.book.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.book.datasource.password'"
+  },
+  {
+    "name": "spring.book.datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.book.datasource.url'"
+  },
+  {
+    "name": "spring.user.datasource.jdbcUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.user.datasource.jdbcUrl'"
+  },
+  {
+    "name": "spring.book.datasource.jdbcUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.book.datasource.jdbcUrl'"
+  },
+  {
+    "name": "spring.user.datasource.jdbcUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.user.datasource.jdbcUrl'"
+  },
+  {
+    "name": "spring.user.datasource.jdbcUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.user.datasource.jdbcUrl'"
+  },
+  {
+    "name": "spring.user.datasource.jdbcUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.user.datasource.jdbcUrl'"
+  },
+  {
+    "name": "spring.user.datasource.jdbcUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.user.datasource.jdbcUrl'"
+  }
+]}
